@@ -1,1 +1,8 @@
-
+---
+layout: post
+title: "中文标题"
+description: "显示效果"
+category: 
+tags: []
+---
+{% include JB/setup %}
