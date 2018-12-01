@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Hello World!
-tagline: Personal Website
+title: Welcome to Ze's Personal Website!
 ---
 {% include JB/setup %}
 
