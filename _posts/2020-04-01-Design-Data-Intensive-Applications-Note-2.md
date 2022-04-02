@@ -2,6 +2,7 @@
 layout: post
 category : Learning
 tagline: 
+thumbnail-img: /assets/img/ddia.jpg
 tags : [Learning, Data]
 ---
 

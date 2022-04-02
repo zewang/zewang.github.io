@@ -16,7 +16,7 @@ author: Ze Wang
 navbar-links:
   Blog: "/"
   About Me: "aboutme"
-  Tag: "tags"
+  Index: "tags"
 
 # --- Logo --- #
 
@@ -46,7 +46,7 @@ social-network-links:
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: zewang5
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

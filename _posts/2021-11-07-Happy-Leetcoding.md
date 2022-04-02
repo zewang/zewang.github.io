@@ -2,6 +2,7 @@
 layout: post
 category : Miscellaneous
 tagline:
+thumbnail-img: /assets/img/leetthumb.jpeg
 tags : [Miscellaneous]
 ---
 

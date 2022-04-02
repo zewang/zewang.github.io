@@ -2,6 +2,7 @@
 layout: post
 category : Learning
 tagline: 
+thumbnail-img: /assets/img/studyhard.png
 tags : [Learning]
 ---
 

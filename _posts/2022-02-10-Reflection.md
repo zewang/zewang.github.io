@@ -2,6 +2,7 @@
 layout: post
 category : Life
 tagline: 
+thumbnail-img: /assets/img/mulan.png
 tags : [Life]
 ---
 
