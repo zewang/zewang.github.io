@@ -2,9 +2,8 @@
 layout: post
 category : Miscellaneous
 tagline:
-tags : []
+tags : [Miscellaneous]
 ---
-{% include JB/setup %}
 
 ![Spaghetti Code](/assets/img/spaghetti_code.png){:class="img-responsive"}
 

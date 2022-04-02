@@ -2,8 +2,7 @@
 layout: post
 category : Miscellaneous
 tagline:
-tags : []
+tags : [Miscellaneous]
 ---
-{% include JB/setup %}
 
 ![Leetcode](/assets/img/leetcode.png){:class="img-responsive"}

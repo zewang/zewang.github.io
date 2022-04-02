@@ -2,9 +2,8 @@
 layout: post
 category : Learning
 tagline: 
-tags : [Data]
+tags : [Learning, Data]
 ---
-{% include JB/setup %}
 
 ## Design Data-Intensive Applications
 

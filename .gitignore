@@ -1,16 +1,19 @@
-_site/*
-_theme_packages/*
+# project
+_site
+.sass-cache
+.vagrant
 
-Thumbs.db
+# general
 .DS_Store
+Thumbs.db
+ehthumbs.db
 
-!.gitkeep
+Gemfile.lock
+
+beautiful-jekyll-theme-*.gem
 
 .rbenv-version
 .rvmrc
 *.gem
 .bundle
 .jekyll-cache
-.sass-cache
-_site
-Gemfile.lock

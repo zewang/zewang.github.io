@@ -2,9 +2,8 @@
 layout: post
 category : Life
 tagline: 
-tags : []
+tags : [Life]
 ---
-{% include JB/setup %}
 
 I always like song Reflection from Mulan.
 

@@ -2,9 +2,8 @@
 layout: post
 category : Learning
 tagline: 
-tags : []
+tags : [Learning]
 ---
-{% include JB/setup %}
 
 ### Coding
 * Leetcode 

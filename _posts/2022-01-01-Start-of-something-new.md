@@ -2,8 +2,7 @@
 layout: post
 category : Life
 tagline: New Year
-tags : []
+tags : [Life]
 ---
-{% include JB/setup %}
 
 ### New Year Resolution: Be Brave and Embrace Changes
